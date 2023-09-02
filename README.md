@@ -35,5 +35,5 @@ To get started with the Flower Stock Exchange application, you can follow these 
 
 # Contributors
 
-Viruthshaan V.  @viruthshan30
-Vishagar A.     @vgr20
+Viruthshaan V. 
+Vishagar A.    
