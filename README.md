@@ -33,6 +33,10 @@ To get started with the Flower Stock Exchange application, you can follow these 
 6. Monitor the order processing and execution entries in real-time.
 7. Retrieve the Execution CSV file for your order results.
 
+# Demo
+
+https://github.com/lsegteamaventra/FlowerStockExchange/assets/110090880/a6036136-00cc-4dc2-bf43-f5bc9a494deb
+
 # Contributors
 
 Viruthshaan V. 
